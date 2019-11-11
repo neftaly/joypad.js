@@ -10,13 +10,13 @@ JavaScript library that lets you connect and use various gaming controllers with
 
 Working examples can be found in the ``examples`` folder in the repo - 
 
-[connection.html](https://github.com/ArunMichaelDsouza/joypad.js/blob/master/examples/connection.html) - Gamepad connection example.
+[connection.html](https://neftaly.github.io/joypad.js/connection.html) - Gamepad connection example.
 
-[jumpingBall.html](https://github.com/ArunMichaelDsouza/joypad.js/blob/master/examples/jumpingBall.html) - Button press example (with custom button mapping).
+[jumpingBall.html](https://neftaly.github.io/joypad.js/jumpingBall.html) - Button press example (with custom button mapping).
 
-[movingBall.html](https://github.com/ArunMichaelDsouza/joypad.js/blob/master/examples/movingBall.html) - Axis (analog stick) movement example.
+[movingBall.html](https://neftaly.github.io/joypad.js/movingBall.html) - Axis (analog stick) movement example.
 
-[vibration.html](https://github.com/ArunMichaelDsouza/joypad.js/blob/master/examples/vibration.html) - Vibration play effect example.
+[vibration.html](https://neftaly.github.io/joypad.js/vibration.html) - Vibration play effect example.
 
 <br/>
 
